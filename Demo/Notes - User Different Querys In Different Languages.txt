@@ -1,0 +1,33 @@
+User Different Querys In Different Languages
+
+
+Query 1  in Hindi:
+इस चित्र में मुख्य वस्तु क्या है?
+What is the main object in this image? [user uploads an image of a flower]
+
+Query 2  in Gujarati:
+આ ચિત્રના દૃશ્યને ત્રણ વાક્યોમાં વર્ણવો.
+Describe the scene in this image in three sentences. [user uploads an image of a beach]
+
+Query 3  in Marathi:
+या प्रतिमेत किती लोक आहेत आणि ते काय करत आहेत?
+How many people are in this image and what are they doing? [user uploads an image of a family picnic]
+
+Query 4  in Arabic:
+هل هذه الصورة لوحة أم صورة فوتوغرافية؟
+Is this image a painting or a photograph? [user uploads an image of a landscape]
+
+Query 5  in Spanish:
+¿Cuáles son los colores y formas de esta imagen?
+What are the colors and shapes in this image? [user uploads an image of a geometric pattern]
+
+Query 6  in English:
+What is the emotion or mood of this image? [user uploads an image of a sunset]
+
+Query 7  in Russain:
+Каков исторический или культурный контекст этого изображения?
+What is the historical or cultural context of this image? [user uploads an image of a monument]
+
+Query 8  in Urdu:
+اس تصویر کے لیے ممکنہ عنوان یا عنوان کیا ہے؟
+What is a possible caption or title for this image? [user uploads an image of a funny animal]

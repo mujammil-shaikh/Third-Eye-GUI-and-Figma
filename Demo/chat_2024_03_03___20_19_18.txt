@@ -1,0 +1,18 @@
+User: इसके बारे में बताओ
+Chatbot: आप एक कमरे में बैठे एक आदमी की तस्वीर देख रहे हैं। उन्होंने चश्मा पहन रखा है और दाढ़ी रखी हुई है. उन्होंने काली शर्ट पहनी हुई है. कमरे में एक लकड़ी का दरवाजा और एक बैंगनी रंग की कैबिनेट है। छत पर रोशनी है. आदमी कैमरे की तरफ देख रहा है.
+
+
+--------------------
+
+User: या प्रतिमे साथी संबाल्य मता किवा शिर्ष काया है।
+Chatbot: आप दो बिल्लियों वाली एक विनोदी छवि देख रहे हैं। पहली बिल्ली एक मेज पर खड़ी मछली के आकार की एक विकर टोकरी को देख रही है। बिल्ली उत्सुक और उत्साहित लगती है, मानो वह टोकरी के साथ खेलना चाहती हो। दूसरी बिल्ली टोकरी के अंदर बैठी शरारती मुस्कान के साथ बाहर देख रही है। ऐसा प्रतीत होता है कि वह मछली के आकार की टोकरी में होने के ध्यान और नवीनता का आनंद ले रहा है। पृष्ठभूमि सरल है और मुख्य विषयों से ध्यान भटकाती नहीं है। छवि एक चंचल और हल्के-फुल्के मूड वाली है, जिसमें बिल्लियों के भाव और हरकतें हास्य प्रभाव बढ़ा रही हैं।
+
+
+--------------------
+
+User: ¿Cuáles son los colores y formas de esta imagen?
+Chatbot: Estás mirando una foto de un patrón geométrico. El patrón consta de muchos triángulos y polígonos que crean un efecto tridimensional. Los colores son azul oscuro, marrón y negro, con algunos tonos más claros de azul y marrón. El patrón es intrincado y simétrico, dándole una sensación de equilibrio y armonía. El fondo es de un color sólido, lo que hace que el patrón destaque aún más. El ambiente general de la imagen es tranquilo y ordenado, ya que las formas geométricas y los colores están dispuestos de manera precisa y organizada.
+
+
+--------------------
+
