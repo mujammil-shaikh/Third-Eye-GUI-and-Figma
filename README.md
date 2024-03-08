@@ -1,4 +1,3 @@
-
 # Vision Voices
 
 Vision Voices is a revolutionary multimodal AI solution designed to empower visually impaired individuals by bridging the gap between visual and auditory information. This project combines computer vision, speech recognition, natural language processing, and language translation to provide an inclusive and accessible experience.
@@ -23,11 +22,20 @@ Vision Voices is a revolutionary multimodal AI solution designed to empower visu
 - **Vision and Language Model**: LLaVA (Large Language and Vision Assistance) Model (via Gradio)
 - **Third-Party Tools and Services**: Git, GitHub, Virtual Environment (e.g., venv, conda), IDE/Text Editor (e.g., PyCharm, Visual Studio Code)
 
+## Getting Started
+
+1. Clone the repository: `git clone https://github.com/mujammil-shaikh/Third-Eye-GUI-and-Figma.git`
+2. Navigate to the project directory: `cd Third-Eye-GUI-and-Figma`
+3. Install the required dependencies: `pip install -r requirements.txt`
+4. Run the application: `python STT_LLaVA_TTS_GUI_APP.py`
 
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
